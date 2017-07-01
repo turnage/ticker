@@ -1,0 +1,6 @@
+[package]
+name = "ticker"
+version = "0.1.0"
+authors = ["Payton Turnage <paytonturnage@gmail.com>"]
+
+[dependencies]
