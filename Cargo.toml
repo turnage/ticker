@@ -2,5 +2,12 @@
 name = "ticker"
 version = "0.1.0"
 authors = ["Payton Turnage <paytonturnage@gmail.com>"]
+description = "Rate limited Iterators."
+homepage = "https://github.com/turnage/ticker"
+docs = "https://docs.rs/ticker"
+repository = "https://github.com/turnage/ticker"
+categories = ["Date and time", "Asynchronous"]
+readme = "readme.md"
+license = "MIT"
 
 [dependencies]
